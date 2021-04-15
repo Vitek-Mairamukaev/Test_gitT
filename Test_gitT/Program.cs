@@ -17,9 +17,6 @@ namespace Test_gitT
             
         }
 
-        static void Print()
-        {
-            Console.WriteLine("Эта финкционал");
-        }
+       
     }
 }
