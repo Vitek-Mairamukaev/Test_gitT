@@ -14,6 +14,12 @@ namespace Test_gitT
             Console.WriteLine("test_git");
             string s = Console.ReadLine();
             Console.WriteLine(s);
+            
+        }
+
+        static void Print()
+        {
+            Console.WriteLine("Эта финкционал");
         }
     }
 }
