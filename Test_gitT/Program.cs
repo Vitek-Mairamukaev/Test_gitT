@@ -14,6 +14,7 @@ namespace Test_gitT
             Console.WriteLine("test_git");
             string s = Console.ReadLine();
             Console.WriteLine(s);
+            Print();
             
         }
 
